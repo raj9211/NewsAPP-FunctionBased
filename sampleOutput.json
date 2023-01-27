@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 21,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Connie Loizos",
+            "title": "That Microsoft deal isn't exclusive, video is coming, and more from OpenAI CEO Sam Altman",
+            "description": "Altman declined to talk about the company's current business dealings, firing a bit of a warning shot when asked a related question. Bu he did reveal a bit about the company's plans going forward.",
+            "url": "https://techcrunch.com/2023/01/17/that-microsoft-deal-isnt-exclusive-video-is-coming-and-more-from-openai-ceo-sam-altman/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-17-at-8.41.09-PM.png?resize=1200,1069",
+            "publishedAt": "2023-01-18T05:04:19Z",
+            "content": "OpenAI co-founder and CEO Sam Altman sat down for a wide-ranging interview with this editor late last week, answering questions about some of his most ambitious personal investments, as well as about… [+6001 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "World Economic Forum warns of global \"polycrisis\" in next decade",
+            "description": "Hundreds of the world's elite business people and political leaders are gathered in Davos, Switzerland, for the World Economic Forum's annual meeting. Ahead of the week-long meeting, the WEF released its 2023 Global Risks Report, warning that climate change, …",
+            "url": "https://www.cbsnews.com/video/world-economic-forum-warns-the-we-could-face-a-global-polycrisis-in-the-next-decade/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/01/18/12f59514-a6e2-4e81-9268-1b216fbe0fb9/thumbnail/1200x630/944e1d0bc2b3105d2ec0832b6c97e442/cbsn-fusion-world-economic-forum-warns-the-we-could-face-a-global-polycrisis-in-the-next-decade-thumbnail-1633460-640x360.jpg",
+            "publishedAt": "2023-01-18T02:34:06+00:00",
+            "content": "Watch CBS News\r\nCopyright ©2023 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News",
+            "title": "White House claimed Biden's Delaware house used for official business but now says it's 'personal'",
+            "description": "While White House officials have previously claimed that President Biden works during his trips to Wilmington, Delaware, they now claim that the residence is \"personal.\"",
+            "url": "https://www.foxnews.com/politics/white-house-claimed-bidens-delaware-house-used-official-business-now-says-personal",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/biden-delaware-garage.jpg",
+            "publishedAt": "2023-01-18T01:52:19.1213771Z",
+            "content": "The White House has previously claimed that President Biden works while taking trips to his Wilmington, Delaware home, but is now claiming that the residence is \"personal\" amid a number of classified… [+3659 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Brent D. Griffiths",
+            "title": "GOP Rep. George Santos will serve House committees on small business, science: reports",
+            "description": "According to reports, the New Yorker will serve on both a small business and a science-related panel.",
+            "url": "http://www.businessinsider.com/embattled-republican-rep-george-santos-gets-house-committee-assignment-2023-1",
+            "urlToImage": "https://i.insider.com/63bf20a99c523e00182be186?width=1200&format=jpeg",
+            "publishedAt": "2023-01-17T23:17:27Z",
+            "content": "Embattled Republican Rep. George Santos will reportedly serve on two House committees, a sign that the New York Republican, who is facing down calls from within the GOP to resign, will still be exten… [+2950 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider-uk",
+                "name": "Business Insider (UK)"
+            },
+            "author": "Brent D. Griffiths",
+            "title": "GOP Rep. George Santos will serve House committees on small business, science: reports",
+            "description": "According to reports, the New Yorker will serve on both a small business and a science-related panel.",
+            "url": "http://uk.businessinsider.com/embattled-republican-rep-george-santos-gets-house-committee-assignment-2023-1",
+            "urlToImage": "https://i.insider.com/63bf20a99c523e00182be186?width=1200&format=jpeg",
+            "publishedAt": "2023-01-17T23:17:27Z",
+            "content": "Embattled Republican Rep. George Santos will reportedly serve on two House committees, a sign that the New York Republican, who is facing down calls from within the GOP to resign, will still be exten… [+2950 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-uk",
+                "name": "Google News (UK)"
+            },
+            "author": "Ian Johnston, Jasmine Cameron-Chileshe",
+            "title": "Social media bosses face jail under amendment to UK online safety bill",
+            "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50L2M3N2NmODU1LWM3MjctNGVlNi04YTUyLTc2NDU5ZTU1M2ZjNtIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-01-17T22:11:05+00:00",
+            "content": "What is included in my trial?\r\nDuring your trial you will have complete digital access to FT.com with everything in both of our Standard Digital and Premium Digital packages.\r\nStandard Digital includ… [+1496 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Curt Devine, Casey Tolan, Scott Glover",
+            "title": "A famous last name, business deals and a looming probe: Republicans ramp up investigation of Biden family",
+            "description": "Some of Biden's relatives have invoked his name during business pursuits. Now, Republicans are investigating.",
+            "url": "http://us.cnn.com/2023/01/17/politics/biden-family-name-invs/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230112110753-joe-hunter-biden-south-carolina-file-081322.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-17T21:47:00Z",
+            "content": "For years, as Joe Biden has sought to assure the American public he deserves their trust, hes relied upon a go-to phrase meant to underscore his credibility: I give you my word as a Biden. \r\nBut that… [+20715 chars]"
+        },
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "Benita Enoch",
+            "title": "Politicians blamed for stoking Phoenix protests",
+            "description": "After a 40-hour power outage enraged residents and some business owners took to the streets in Phoenix, north of Durban. Tyres were burned and roads were closed.",
+            "url": "https://www.news24.com/news24/southafrica/news/politicians-blamed-for-stoking-phoenix-protests-20230117",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/8077/e2ef7f6c25fb4ff28818373b7ce05973.jpg",
+            "publishedAt": "2023-01-17T20:35:52+00:00",
+            "content": "<ul><li>After a 40-hour power outage in Phoenix over the weekend, angry residents took to the streets protesting and burning tyres.</li><li>Political opportunism was blamed for stoking the protests.<… [+5744 chars]"
+        },
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "Alex Patrick",
+            "title": "City Power turns lights of defaulting businesses off in three-day blitz",
+            "description": "On Tuesday, the bulk electricity supplier began a three-day revenue collection effort to recover some of the R363 million owed by defaulting businesses.",
+            "url": "https://www.news24.com/news24/southafrica/news/city-power-turns-lights-of-defaulting-businesses-off-in-three-day-blitz-20230117",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/8076/26fb49627abe4fd9a49b678c1f03c7c8.jpeg",
+            "publishedAt": "2023-01-17T20:31:17+00:00",
+            "content": "<ul><li>City Power embarked on the first day of a three-day revenue collection effort on defaulting businesses in Region E.</li><li>The region owes R363 million and the entity is hoping to get back a… [+3629 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Wall Street investment banking slammed, as execs hope for more confidence ahead",
+            "description": "Wall Street banks showed deep falls in their investment banking businesses in the fourth quarter, prompting thousands of job cuts, but executives are looking for signs that corporate CEOs are regaining confidence in doing deals again.",
+            "url": "https://www.reuters.com/business/finance/wall-street-banks-slammed-execs-cautiously-hope-more-confidence-ahead-2023-01-17/",
+            "urlToImage": "https://www.reuters.com/resizer/C56lFR6C5XAHgOCFeSp55VdJfn0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WYHZWE7XQBONRPO5S5S7BY4CKU.jpg",
+            "publishedAt": "2023-01-17T18:45:53Z",
+            "content": "NEW YORK, Jan 17 (Reuters) - Wall Street banks showed deep falls in their investment banking businesses in the fourth quarter, prompting thousands of job cuts, but executives are looking for signs th… [+4503 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Erich Schwartzel, Dean Seal",
+            "title": "Disney Defends Board, CEO Robert Iger Against Nelson Peltz’s Criticisms",
+            "description": "Entertainment company says investor lacks understanding of Disney’s business",
+            "url": "https://www.wsj.com/articles/disney-defends-board-ceo-robert-iger-against-peltzs-criticisms-11673971148?mod=hp_lead_pos1",
+            "urlToImage": "https://images.wsj.net/im-704735/social",
+            "publishedAt": "2023-01-17T15:59:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Disney says investor Peltz 'lacks experience' to help business",
+            "description": "Walt Disney Co <a href=\"https://www.reuters.com/companies/DIS.N\" target=\"_blank\">(DIS.N)</a> defended its decision on Tuesday to deny a board seat to Nelson Peltz, saying the activist investor \"lacked the skills and experience\" to help the entertainment giant…",
+            "url": "https://www.reuters.com/business/media-telecom/disney-says-investor-peltz-lacks-experience-understand-its-business-2023-01-17/",
+            "urlToImage": "https://www.reuters.com/resizer/dd0SerAajM3qtt6xC_o60UPm6Pw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/N6SQ3SZ2FZK5ROZ7D5MDUHHDRU.jpg",
+            "publishedAt": "2023-01-17T14:44:12Z",
+            "content": "Jan 17 (Reuters) - Walt Disney Co (DIS.N) defended its decision on Tuesday to deny a board seat to Nelson Peltz, saying the activist investor \"lacked the skills and experience\" to help the entertainm… [+1076 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Molly Lipson",
+            "title": "New study proved every company, business should go to 4-day workweek",
+            "description": "A real-world experiment of 33 companies found that productivity, revenue, and employee well-being improved with a four-day workweek.",
+            "url": "http://www.businessinsider.com/4-day-workweek-successful-trial-evidence-productivity-retention-revenue-2023-1",
+            "urlToImage": "https://i.insider.com/63c1d223cddf2c00196e2f18?width=1200&format=jpeg",
+            "publishedAt": "2023-01-17T11:00:00Z",
+            "content": "The results are in: It's time for your company to stop working on Fridays (or Mondays).\r\nThe latest, perhaps most convincing evidence yet for the shift to a four-day workweek comes from a six-month t… [+9970 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider-uk",
+                "name": "Business Insider (UK)"
+            },
+            "author": "Molly Lipson",
+            "title": "New study proved every company, business should go to 4 day work week",
+            "description": "A real-world experiment of 33 companies found that productivity, revenue, and employee well-being improved with a four-day workweek.",
+            "url": "http://uk.businessinsider.com/4-day-workweek-successful-trial-evidence-productivity-retention-revenue-2023-1",
+            "urlToImage": "https://i.insider.com/63c1d223cddf2c00196e2f18?width=1200&format=jpeg",
+            "publishedAt": "2023-01-17T11:00:00Z",
+            "content": "The results are in: It's time for your company to stop working on Fridays (or Mondays).\r\nThe latest, perhaps most convincing evidence yet for the shift to a four-day workweek comes from a six-month t… [+9970 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Chip Cutter, Sam Schechner",
+            "title": "At Davos, Mood Is Somber as Many CEOs Question Economic Outlook",
+            "description": "Business leaders at the World Economic Forum worry about possible recession",
+            "url": "https://www.wsj.com/articles/at-davos-mood-is-somber-as-many-ceos-question-economys-future-11673952415?mod=hp_lead_pos6",
+            "urlToImage": "https://images.wsj.net/im-704400/social",
+            "publishedAt": "2023-01-17T10:46:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jason Nichols",
+            "title": "Newsweek",
+            "description": "Newsweek provides in-depth analysis, news and opinion about international issues, technology, business, culture and politics.",
+            "url": "https://www.newsweek.com/",
+            "urlToImage": "https://d.newsweek.com/en/full/2177067/comp-image-military-cadets-putin.jpg",
+            "publishedAt": "2023-01-12T13:22:38.0882552Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Financial Post",
+            "title": "Financial Post",
+            "description": "Read through unique Editorials and Business &amp; Finance columns from our top editors covering current events.",
+            "url": "http://business.financialpost.com/category/opinion/",
+            "urlToImage": "https://dcs-static.gprod.postmedia.digital/12.2.3/websites/images/postmedia-image-fallback.png",
+            "publishedAt": "2022-11-13T00:37:38.6606149Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Financial Post",
+            "title": "Financial Post",
+            "description": "Stay up-to-date with the latest business trends and information on the Canadian economy, stock market and personal finance. Learn to save money, invest in the market, grow your wealth and advance your career with new skills.",
+            "url": "https://financialpost.com/category/personal-finance/business-essentials/",
+            "urlToImage": "https://dcs-static.gprod.postmedia.digital/12.2.3/websites/images/postmedia-image-fallback.png",
+            "publishedAt": "2022-11-13T00:37:35.7082248Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "‘Money is no object’: Ghislaine Maxwell trial shines light on class divide",
+            "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+            "url": "https://www.ft.com/content/0b9d93da-1687-4eb1-bd53-0a84a1b40dff",
+            "urlToImage": null,
+            "publishedAt": "2021-12-14T06:22:29.1165883Z",
+            "content": "Keep abreast of significant corporate, financial and political developments around the world.\r\nStay informed and spot emerging risks and opportunities with independent global reporting, expert\r\ncomme… [+32 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "Need relief from the stress of screen time? There’s an app for that",
+            "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+            "url": "https://www.ft.com/content/221cf7c4-56e7-4c7e-b6c0-cc3737da0330",
+            "urlToImage": null,
+            "publishedAt": "2021-12-14T06:22:27.4295096Z",
+            "content": "Let our global subject matter experts broaden your perspective with timely insights and opinions you\r\ncant find anywhere else."
+        }
+    ]
+}
